@@ -1,0 +1,16 @@
+{
+  "packName": "Nomifactory Addons",
+  "packId": "nomiaddons",
+  "version": "1.0.0",
+  "debug": false,
+  "classes": ["classes/"],
+  "loaders": {
+    "preInit": [
+      "preInit/"
+    ],
+    "postInit": [
+      "postInit/main.groovy",
+      "postInit/"
+    ]
+  }
+}

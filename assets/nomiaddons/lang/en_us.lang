@@ -1,0 +1,16 @@
+
+item.nomiaddons.zpm_power.name=ZPM packed power
+item.nomiaddons.uv_power.name=UV packed power
+item.nomiaddons.uhv_power.name=UHV packed power
+item.nomiaddons.uev_power.name=UEV packed power
+item.nomiaddons.uiv_power.name=UIV packed power
+item.nomiaddons.uxv_power.name=UXV packed power
+item.nomiaddons.opv_power.name=OPV packed power
+
+recipemap.energy_packer.name=Energy Packing
+
+gregtech.machine.energy_packer.name=Energy Packager
+gregtech.machine.energy_packer.tooltip=Compresses Energy into an infinitely dense item
+
+gregtech.machine.inscryber.name=Large Inscryption Factory
+gregtech.machine.inscryber.tooltip=Go play the game!
