@@ -39,6 +39,7 @@ does a stack at a time(parallel hatches replacing this will be soontm), recipes 
 ---
 
 ## postTankRecipes.groovy
+### this is disabled by default, to enable it, delete the ```return``` on line 1 of the script
 
 this is what it says, changes recipes to make post tank(dont use it in hm im watching) less laggy
 
